@@ -33,8 +33,6 @@ columns = {
     ],
     "targets": [
         "Death",
-        "Final Patient Status",
-        "ICU transfer",
     ],
 }
 classifier_models_list = [
